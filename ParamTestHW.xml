@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Param Suite" parallel="false">
+	<test name="ParamTest">
+		<classes>
+			<parameter name="param1" value="1"></parameter>
+			<parameter name="param2" value="User Ira"></parameter>
+			<class name= "HomeWork6.TestWithParameters" />
+		</classes>
+	</test>
+</suite>
